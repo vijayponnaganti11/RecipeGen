@@ -4,6 +4,8 @@ Novel recipe generation and evaluation using GPT2
 #### * GPT2 small is used having 768 tokens. 
 #### * packages used hugginface transformers, PyTorch and Sklearn.
 
+# Drive link for all related files
+https://drive.google.com/drive/folders/1sOKFmTe8M-fRpveQABLCT-dH0cZlZIBp?usp=sharing
 
 # Future works
 
